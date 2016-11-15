@@ -1,0 +1,44 @@
+h1 {
+	font-family: helvetica;
+	font-size: 32px;
+	font-weight: 900;
+	color: #333;
+}
+
+h2 {
+	font-family: helvetica;
+	font-size: 26px;
+	font-weight: 900;
+	color: #333;	
+}
+
+h3 {
+	font-family: helvetica;
+	font-size: 20px;
+	font-weight: 900;
+	color: #666;
+}
+
+a {
+	color: #900;
+}
+
+body {
+	background: #FFE;
+	margin: 40px;
+
+}
+
+p {
+	font-family: helvetica;
+	font-size: 16px;
+	color: #424242;
+	line-height: 22px;
+}
+
+ul {
+	font-family: helvetica;
+	font-size: 16px;
+	color: #424242;
+	line-height: 22px;
+}
