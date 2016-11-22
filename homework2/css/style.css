@@ -1,0 +1,144 @@
+.body_font1{
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+}
+.center{
+	width: 960px;
+	margin: auto;
+}
+.center_inline{
+	text-align:center;
+	margin:auto;
+}
+.padding_left{
+	padding-left:120px;
+
+}
+#mind_background{
+	background: url(http://i.imgur.com/vor3WM3.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+.benefits_background{
+	background-color:#fff;
+	background-size:100% 100%;
+}
+.logo1_topleft{
+	padding-top:40px;
+	font-size:4em;
+	font-weight:800;
+	color:white;
+	letter-spacing:1px;
+}
+.mind_tagline{
+	margin:80px 0 80px 0;
+	font-size:3.5em;
+	font-weight:600;
+	color:#fff;
+	letter-spacing:1px;
+}
+.btn_1{
+	padding:20px 80px 20px 80px;
+	margin-bottom:300px;
+	background-color:#f9e32e;
+	border:0;
+	border-radius:10px;
+	color:#013048;
+}	
+.btn_font1{	
+	font-family: 'Open Sans', sans-serif;
+	font-weight:700;
+	font-size:2.2em;
+}
+.button:hover{
+	background-color:#f9892e;
+	color:#fff;
+	border:0;
+}
+.benefits_header{
+	padding:100px 0 20px 0;
+	font-weight:600;
+	font-size:3em;
+	color:#013048;
+}
+.benefits_paragraph{
+	font-weight:300;
+	font-size:1.8em;
+	color:#666;
+	line-height:1.5em;
+	width:600px;
+}
+.ul_1{
+	padding:40px 40px 80px 140px;
+	list-style-type:disc;
+}
+#quote_background{
+	background: url(http://i.imgur.com/u5UIfS0.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+.quote_1{
+	padding:80px 0 80px 0;
+	font-weight:300;
+	font-style: italic;
+	font-size:2.2em;
+	color:#fff;
+	line-height:1.5em;
+	text-align:center;
+	width:500px;
+}
+.quote_span1{
+	font-weight:600;
+	font-style: normal;
+}
+.signup_background{
+	background:#f9e32e;
+}
+.btn_2{
+	padding:20px 80px 20px 80px;
+	margin:30px 0 30px 0;
+	background-color:#053149;
+	border:0;
+	border-radius:10px;
+	color:#fff;
+}
+#footer_background{
+	background:#121212;
+}
+.logo2_footer{
+	padding:70px 0 70px 0;
+	font-size:4em;
+	font-weight:800;
+	color:#f8e530;
+	letter-spacing:1px;
+}
+.side_by_side{
+  width: 100%;
+}
+.side_by_side li{
+	display:inline;
+	margin-right:60px;
+}
+.footer_li:last-child {
+    margin-right:0;
+}
+.footer_font1{
+	padding:80px 0 40px 0;
+	color:#fff;
+	font-size:1.5em;
+	font-weight:300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
