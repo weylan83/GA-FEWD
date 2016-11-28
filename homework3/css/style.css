@@ -124,6 +124,10 @@ article {
   line-height: 1.5em;
   margin: 30px 0 40px 0;
 }
+article p::first-letter { 
+    font-size: 200%;
+    color: #4c595f;
+}
 #col1_main a{
   display: block;
   color: #01204c;
